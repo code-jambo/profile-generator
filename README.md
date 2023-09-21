@@ -23,7 +23,7 @@ http://localhost:8000?name=Maxwell+Kemboi&background=fff&rounded=200
 ```
 Output :
 
-![Maxwell Kemboi Profile Image](https://raw.githubusercontent.com/codes-neo/profile-generator/c67141cd9c01aa5d0904363fae923fa2f667d768/samples/sample.svg)
+![Maxwell Kemboi Profile Image](https://raw.githubusercontent.com/codes-neo/profile-generator/fe9f4845e7ae7b2c97e126c1827e299dd74200bd/samples/sample.svg)
 
 
 
